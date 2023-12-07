@@ -29,7 +29,7 @@ const songs = [
     path: 'assets/just-the-two-of-us.mp3',
     displayName: 'Just The Two of Us',
     cover: 'assets/just-the-two-of-us.jpg',
-    artist: 'Canção de Bill Withers e Grover Washington Jr',
+    artist: 'Bill Withers e Grover Washington Jr',
   }
 ];
 
